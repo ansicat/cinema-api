@@ -2,7 +2,7 @@
 API service for cinema management written on DRF
 
 ## Features
-- JWT authentification
+- JWT authentication
 - Admin panel /admin/
 - Documentation /api/doc/swagger/
 - Creating movies with genres and actors
@@ -20,7 +20,7 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 set POSTGRES_HOST=<db host>
-set POSTGRES_DB=<db name>i
+set POSTGRES_DB=<db name>
 set POSTGRES_USER=<db user>
 set POSTGRES_PASSWORD=<db user password>
 set SECRET_KEY=<your secret key>
