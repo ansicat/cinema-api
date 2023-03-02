@@ -13,6 +13,7 @@ API service for cinema management written on DRF
 
 ## Install using GitHub
 Install PostgreSQL and create database
+
 Use `.env.sample` as example and create file `.env` with your settings
 ```
 git clone https://github.com/ansicat/cinema-api.git
